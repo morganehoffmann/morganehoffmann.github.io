@@ -1,0 +1,20 @@
+---
+title: "Morgane Hoffmann"
+image: photomorganesite.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/morgane-hoffmann/
+    - text: Email
+      href: morgane.hoffmann@pole-emploi.fr
+---
+        
+**Research interests** : Labour economics, Policy evaluation, AI Ethics 
+
+I'm a third year PhD Candidate in Economics at <a href="https://crest.science/">CREST</a> (ENSAE - Polytechnique). 
+I work under the supervision of <a href="https://sites.google.com/site/brunocrepon/">Bruno Crépon</a> and <a href="https://sites.google.com/site/arneuhlendorff/">Arne Uhlendorff</a>. 
+

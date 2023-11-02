@@ -1,0 +1,107 @@
+---
+
+---
+
+## Work Experience 
+
+<div class = experience>
+<div class = company-wrapper>
+<div class = company-name><img src = "logoPE.png" width = 30px >  Pôle emploi </div>
+<div class="time">April 2021 - Present</div> 
+</div>
+<div class = job-wrapper> 
+<div class="experience-title"> Project Manager and Doctoral Researcher  </div>
+
+<div class='experience-description'> Responsible for the development and evaluation of innovative data-driven solutions. Use of advanced statistical tools to assess the impact of projects on key outcomes. Coordinate multidisciplinary teams </div>
+</div>
+
+<div class = company-wrapper> 
+<div class = company-name><img src = "world-bank-logo.jpg" width = 35px > World Bank </div>
+<div class="time">Aug. 2020 - Dec. 2020</div> 
+</div>
+<div class = job-wrapper> 
+<div class="experience-title">Short-term Consultant</div>
+<div class='experience-description'> Research support on the use of Generic Machine Learning methods for the analysis of heterogeneity in randomized controlled trials </div>
+</div>
+
+<div class = company-wrapper> 
+<div class = company-name> <img src = "https://s2.qwant.com/thumbr/0x380/5/c/ea5c9ecbca3d700554de0e2664cd9b499b9e90701668adf54bcf9879728ee1/Emblem-European-Central-Bank-ECB.jpg?u=https%3A%2F%2Flogos-marques.com%2Fwp-content%2Fuploads%2F2021%2F07%2FEmblem-European-Central-Bank-ECB.jpg&q=0&b=1&p=0&a=0" width = 30px >European Central Bank </div>
+<div class="time">Jan. 2019 - Oct. 2019</div> 
+</div>
+<div class = job-wrapper> 
+<div class="experience-title">Research Assistant</div>
+<div class='experience-description'> Research support for financial experts in the Financial Stability Surveillance Division. Editor of the Financial Stability Review (Non-bank financial sector) </div>
+</div>
+
+<div class = company-wrapper> 
+<div class = company-name><img src = "rexecode.jpeg" width = 30px > Rexecode </div>
+<div class="time">May 2018 - Dec. 2018</div> 
+</div>
+<div class = job-wrapper> 
+<div class="experience-title">Consultant (Intern)</div>
+<div class='experience-description'> Editor of the Monthly Report on the Economic Situation in Spain and Latin America. Responsible for the annual report on the competitiveness of France </div>
+</div>
+</div>
+
+
+## Education
+ <div class = experience>
+<div class = company-wrapper> 
+<div class = company-name> CREST </div>
+<div class="time">April 2021 - Present</div> 
+</div>
+<div class = job-wrapper> 
+<div class="experience-title"> PhD in Economics </div>
+
+<div class='experience-description'> Supervisors : Arne Uhlendorff, Bruno Crépon </div>
+</div>
+
+
+<div class = company-wrapper> 
+<div class = company-name> ENSAE </div>
+<div class="time">2019 - 2020 </div> 
+</div>
+<div class = job-wrapper> 
+<div class="experience-title"> Master in Data Science </div>
+
+<!-- <div class='experience-description'> Thesis title </div> -->
+</div>
+
+
+<div class = company-wrapper> 
+<div class = company-name> Paris School of Economics </div>
+<div class="time">2019 - 2020 </div> 
+</div>
+<div class = job-wrapper> 
+<div class="experience-title"> Master in Economics </div>
+
+<!-- <div class='experience-description'> Thesis title </div> -->
+</div>
+
+</div>
+
+
+
+## Teaching
+<div class = experience>
+<div class = company-wrapper> 
+<div class = company-name> Paris I Panthéon-Sorbonne </div>
+<div class="time">April 2021 - Present</div> 
+</div>
+<div class = job-wrapper> 
+<div class="experience-title"> Teaching Assistant in Econometrics</div>
+
+<div class='experience-description'> Introduction to formal statistical theory of linear regression model, intuitive understanding of the principles of econometric analysis and basic applications on real data with R </div>
+</div>
+
+
+<div class = company-wrapper> 
+<div class = company-name> ENSAE </div>
+<div class="time">2019 - 2020 </div> 
+</div>
+<div class = job-wrapper> 
+<div class="experience-title"> Statistics Project Supervisor </div>
+
+<div class='experience-description'>Supervision of groups of students in machine learning projects (Natural Language Processing, Recommendation Algorithms, Machine Learning methods for heterogeneity analysis in randomized experiment)</div>
+</div>
+</div>

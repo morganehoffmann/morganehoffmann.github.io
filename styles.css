@@ -1,0 +1,111 @@
+/* css styles */
+
+
+.experience{
+    width:100%;
+    font-weight:300;
+    /* min-height:100%;
+    min-height:100vh; */
+
+}
+
+.experience-title {
+    text-align:left;
+    font-size:1em;
+    margin-bottom:10px;
+    font-weight: 200
+  }
+
+.company-name{
+    margin-bottom: 10px;
+    font-weight:bold;
+}
+.time{
+    color: #2780e3 
+}
+
+
+.company-wrapper {
+    width:35%!important;
+    float:left!important;
+    text-align:left;
+    padding-right:5%;
+    margin-bottom:30px;
+  }
+
+.job-wrapper {
+    width:65%!important;
+    float:left!important;
+    text-align:left;
+    padding-right:5%;
+    margin-bottom:60px;
+  }
+
+.experience-description{
+    font-style : italic
+
+}
+    .about-link{
+        margin: 1em
+    }
+
+    .download-link{
+        margin: 1em
+
+    }
+
+    .paper-abstract{
+        text-align: justify;
+        font-size:smaller;
+
+    }
+
+    .paper-item{
+
+      
+            list-style: none;
+          
+    }
+
+
+.paper-authors{
+
+    font-style : italic
+}
+/* 
+.experience {
+    width:60%;
+    float:left;
+    position:relative;
+    color:$skillsColor;
+    font-weight:300;
+    min-height:100%;
+    min-height:100vh;
+    h3.experience-title {
+      text-align:left;
+      text-transform:uppercase;
+      font-size:1.2em;
+      margin-bottom:20px;
+      font-weight:400;
+    }
+    .company-wrapper {
+      width:30%;
+      float:left;
+      text-align:left;
+      padding-right:5%;
+      margin-bottom:60px;
+      @include breakpoint(baby-bear) {width:100%; margin-bottom:20px;} 
+    }
+    .job-wrapper {
+      width:70%;
+      float:left;
+      text-align:left;
+      padding-right:5%;
+      margin-bottom:60px;
+      @include breakpoint(baby-bear) {width:100%;margin-bottom:40px;} 
+    }
+    .experience-title {
+        color:white;
+        margin-bottom:15px;;
+      }
+  } */

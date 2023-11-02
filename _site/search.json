@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Morgane Hoffmann, Bertille Picard, Charly Marie and Guillaume Bied\n\n\n\nDigital matching platforms promise to reduce frictions on the labor market by providing low-cost information on available positions and candidates. As such, they may form a welcome addition to the toolbox available to Public Employment Services to bridge labor supply and demand. However, there are certain challenges associated with their adoption. For instance, vulnerable populations may face difficulties in utilizing digital tools effectively. In this study, we evaluate the impact of a communication campaign by email designed to encourage the use of an online matching platform maintained by the French Public Employment Service, Pôle emploi. We designed several email templates that combined information, support or motivational content to encourage jobseekers to engage with their profiles on the platform. In order to discover email effectiveness we implement an adaptive experiment (contextual bandit) where the goal is to use past jobseekers take-up responses and characteristics to determine email allocation in the future, reducing gradually the allocation of less promising templates. Additionally, we built an optimal personalization allocation strategy based on collected data and test its effectiveness. Emails had a positive impact on the usage of the platform, as measured by a wide range of outcomes. However, attempts at learning a personalized emailing strategy did not manage to significantly improve on a random allocation of email templates.\n\n\nDraft"
+  },
+  {
+    "objectID": "research.html#experimental-methodology",
+    "href": "research.html#experimental-methodology",
+    "title": "Research",
+    "section": "",
+    "text": "Morgane Hoffmann, Bertille Picard, Charly Marie and Guillaume Bied\n\n\n\nDigital matching platforms promise to reduce frictions on the labor market by providing low-cost information on available positions and candidates. As such, they may form a welcome addition to the toolbox available to Public Employment Services to bridge labor supply and demand. However, there are certain challenges associated with their adoption. For instance, vulnerable populations may face difficulties in utilizing digital tools effectively. In this study, we evaluate the impact of a communication campaign by email designed to encourage the use of an online matching platform maintained by the French Public Employment Service, Pôle emploi. We designed several email templates that combined information, support or motivational content to encourage jobseekers to engage with their profiles on the platform. In order to discover email effectiveness we implement an adaptive experiment (contextual bandit) where the goal is to use past jobseekers take-up responses and characteristics to determine email allocation in the future, reducing gradually the allocation of less promising templates. Additionally, we built an optimal personalization allocation strategy based on collected data and test its effectiveness. Emails had a positive impact on the usage of the platform, as measured by a wide range of outcomes. However, attempts at learning a personalized emailing strategy did not manage to significantly improve on a random allocation of email templates.\n\n\nDraft"
+  },
+  {
+    "objectID": "research.html#labour-markets",
+    "href": "research.html#labour-markets",
+    "title": "Research",
+    "section": "Labour Markets",
+    "text": "Labour Markets\n\n\n\nFrom Hidden Skills to Opportunities : The Impact of Job Portals use on Labor Market Outcomes\n\n\nMorgane Hoffmann, Bertille Picard, Charly Marie and Guillaume Bied\n\n\n\nIn this paper, we propose to investigate the benefits of the use of digital matching platform. In partnership with the French Public Employment Service, Pôle emploi, we encourage randomly selected registered jobseekers to fill-in and publish their profile on the PES platform making them more visible to recruiters. We are able to track the effects of the intervention on a variety of outcomes, including employment, through rich administrative data and web logs provided by the French Employment Service\n\n\nWork In Progress\n\n\n\nSignaling in Recruitment: Impact on Applications and Recruiters Work Conditions\n\n\nAlexandre Aubourg, Morgane Hoffmann, Mathieu Teachout\n\n\n\nWe evaluate the effect of an innovative intervention implemented by the French Public Employment Service (PES) that consists of increasing the amount of information given by recruiters. As part of this initiative, firms are randomly asked to provide an “inversed CV” which include detailed information on work conditions, values, and direct contact details. Our analysis primarily focuses on assessing the impact of this intervention on both the quantity and quality of job hirings. Furthermore, we aim to uncover the influence of this approach on the work conditions proposed by the participating firms compared to the ones in the control group.\n\n\nWork In Progress"
+  },
+  {
+    "objectID": "research.html#ai-ethics",
+    "href": "research.html#ai-ethics",
+    "title": "Research",
+    "section": "AI Ethics",
+    "text": "AI Ethics\n\n\n\nFairness in job recommendations: estimating, explaining, and reducing gender gaps\n\n\nGuilaume Bied, Christophe Gaillac, Morgane Hoffmann, Elia Perennes, Philippe Caillou, Bruno Crepon, Solal Nathan and Michèle Sebag\n\n\n\nAlgorithmic recommendations of job ads have the potential to reduce frictional unemployment, but raise concerns about fairness due to biases in past data. Our research investigates the issue of algorithmic fairness with a specific focus on gender in a hybrid job recommendation system developed in partnership with the French Public Employment Service (PES), which is trained on past hires. First, by viewing job ads as a set of characteristics (such as wage and contract type), we document how the algorithm treats job seekers differently based on gender, both unconditionally and conditionally on their search parameters and qualifications. Second, we discuss the notion(s) of algorithmic fairness applicable in this context and the trade-offs involved. We show that the considered system reflects some existing differences in hiring or applications but does not exacerbate them. Finally, we consider adversarial de-biasing technique as a practical tool to demonstrate the trade-offs between recall and reduced differentiated treatment.\n\n\nProceedings"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "Morgane Hoffmann",
+    "section": "Work Experience",
+    "text": "Work Experience\n\n\n\n Pôle emploi\n\n\nApril 2021 - Present\n\n\n\n\nProject Manager and Doctoral Researcher\n\n\nResponsible for the development and evaluation of innovative data-driven solutions. Use of advanced statistical tools to assess the impact of projects on key outcomes. Coordinate multidisciplinary teams\n\n\n\n\n World Bank\n\n\nAug. 2020 - Dec. 2020\n\n\n\n\nShort-term Consultant\n\n\nResearch support on the use of Generic Machine Learning methods for the analysis of heterogeneity in randomized controlled trials\n\n\n\n\nEuropean Central Bank\n\n\nJan. 2019 - Oct. 2019\n\n\n\n\nResearch Assistant\n\n\nResearch support for financial experts in the Financial Stability Surveillance Division. Editor of the Financial Stability Review (Non-bank financial sector)\n\n\n\n\n Rexecode\n\n\nMay 2018 - Dec. 2018\n\n\n\n\nConsultant (Intern)\n\n\nEditor of the Monthly Report on the Economic Situation in Spain and Latin America. Responsible for the annual report on the competitiveness of France"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Morgane Hoffmann",
+    "section": "Education",
+    "text": "Education\n\n\n\nCREST\n\n\nApril 2021 - Present\n\n\n\n\nPhD in Economics\n\n\nSupervisors : Arne Uhlendorff, Bruno Crépon\n\n\n\n\nENSAE\n\n\n2019 - 2020\n\n\n\n\nMaster in Data Science\n\n\n\n\n\nParis School of Economics\n\n\n2019 - 2020\n\n\n\n\nMaster in Economics"
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "Morgane Hoffmann",
+    "section": "Teaching",
+    "text": "Teaching\n\n\n\nParis I Panthéon-Sorbonne\n\n\nApril 2021 - Present\n\n\n\n\nTeaching Assistant in Econometrics\n\n\nIntroduction to formal statistical theory of linear regression model, intuitive understanding of the principles of econometric analysis and basic applications on real data with R\n\n\n\n\nENSAE\n\n\n2019 - 2020\n\n\n\n\nStatistics Project Supervisor\n\n\nSupervision of groups of students in machine learning projects (Natural Language Processing, Recommendation Algorithms, Machine Learning methods for heterogeneity analysis in randomized experiment)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Morgane Hoffmann",
+    "section": "",
+    "text": "Research interests : Labour economics, Policy evaluation, AI Ethics\nI’m a third year PhD Candidate in Economics at CREST (ENSAE - Polytechnique). I work under the supervision of Bruno Crépon and Arne Uhlendorff."
+  }
+]
