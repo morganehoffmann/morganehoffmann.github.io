@@ -6,22 +6,22 @@
 
 <div class = experience>
 <div class = company-wrapper>
-<div class = company-name><img src = "logoPE.png" width = 30px >  Pôle emploi </div>
-<div class="time">April 2021 - Present</div> 
+<div class = company-name><img src = "logoPE.png" width = 30px >  France Travail </div>
+<div class="time">Jan 2021 - Present</div> 
 </div>
 <div class = job-wrapper> 
 <div class="experience-title"> Project Manager and Doctoral Researcher  </div>
 
-<div class='experience-description'> Responsible for the development and evaluation of innovative data-driven solutions. Use of advanced statistical tools to assess the impact of projects on key outcomes. Coordinate multidisciplinary teams </div>
+<div class='experience-description'> Developed and evaluated innovative data-driven solutions, using artificial intelligence (recommender systems and multi-arm bandits) - Utilized advanced statistical tools for impact assessment, combining econometrics and machine learning techniques. - Coordinated multidisciplinary teams collaborating with psychologists, informatics experts, economists and caseworkers to implement experimental projects </div>
 </div>
 
 <div class = company-wrapper> 
 <div class = company-name><img src = "world-bank-logo.jpg" width = 35px > World Bank </div>
-<div class="time">Aug. 2020 - Dec. 2020</div> 
+<div class="time">Aug. 2020 - Nov. 2020</div> 
 </div>
 <div class = job-wrapper> 
 <div class="experience-title">Short-term Consultant</div>
-<div class='experience-description'> Research support on the use of Generic Machine Learning methods for the analysis of heterogeneity in randomized controlled trials </div>
+<div class='experience-description'> Provided research support on the use of Generic Machine Learning methods for analyzing heterogeneity in randomized trials </div>
 </div>
 
 <div class = company-wrapper> 
@@ -30,16 +30,16 @@
 </div>
 <div class = job-wrapper> 
 <div class="experience-title">Research Assistant</div>
-<div class='experience-description'> Research support for financial experts in the Financial Stability Surveillance Division. Editor of the Financial Stability Review (Non-bank financial sector) </div>
+<div class='experience-description'> Provided research support for financial experts in the Financial Stability Surveillance Division. - Edited the Financial Stability Review, focusing on the non-bank financial sector</div>
 </div>
 
 <div class = company-wrapper> 
 <div class = company-name><img src = "rexecode.jpeg" width = 30px > Rexecode </div>
-<div class="time">May 2018 - Dec. 2018</div> 
+<div class="time">Jun 2018 - Dec. 2018</div> 
 </div>
 <div class = job-wrapper> 
 <div class="experience-title">Consultant (Intern)</div>
-<div class='experience-description'> Editor of the Monthly Report on the Economic Situation in Spain and Latin America. Responsible for the annual report on the competitiveness of France </div>
+<div class='experience-description'>Edited the Monthly Report on the Economic Situation in Spain and Latin America. - Responsible for the annual report on the competitiveness of France </div>
 </div>
 </div>
 
@@ -70,7 +70,7 @@
 
 <div class = company-wrapper> 
 <div class = company-name> Paris School of Economics </div>
-<div class="time">2019 - 2020 </div> 
+<div class="time">2016 - 2018 </div> 
 </div>
 <div class = job-wrapper> 
 <div class="experience-title"> Master in Economics </div>
@@ -97,7 +97,7 @@
 
 <div class = company-wrapper> 
 <div class = company-name> ENSAE </div>
-<div class="time">2019 - 2020 </div> 
+<div class="time">2020 - 2023 </div> 
 </div>
 <div class = job-wrapper> 
 <div class="experience-title"> Statistics Project Supervisor </div>
