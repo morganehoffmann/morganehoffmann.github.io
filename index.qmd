@@ -10,7 +10,7 @@ about:
     - text: LinkedIn
       href: https://www.linkedin.com/in/morgane-hoffmann/
     - text: Email
-      href: morgane.hoffmann@pole-emploi.fr
+      href: mailto:morgane.hoffmann.pro@gmail.com
 ---
         
 **Research interests** : Labour economics, Policy evaluation, AI Ethics  
