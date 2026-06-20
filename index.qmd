@@ -13,8 +13,9 @@ about:
       url: mailto:morgane.hoffmann.pro@gmail.com
 ---
         
-**Research interests** : Labour economics, Policy evaluation, AI Ethics  
+**Research interests**: Causal inference, AI ethics and fairness, Labor economics
 
-I'm a third year PhD Candidate in Economics at <a href="https://crest.science/">CREST</a> (ENSAE - Polytechnique). 
-I work under the supervision of <a href="https://sites.google.com/site/brunocrepon/">Bruno Crépon</a> and <a href="https://sites.google.com/site/arneuhlendorff/">Arne Uhlendorff</a>. 
+I am a Data Scientist at Malt, specializing in decision science and causal inference. I hold a PhD in Economics from CREST (ENSAE - Polytechnique).
+
+My work combines econometrics and machine learning to study AI systems in labor markets, with a particular focus on understanding and mitigating biases in algorithmic hiring and talent-matching platforms. 
 

@@ -16,8 +16,16 @@ title: "Research"
     </li>
 </ul>
 
-## Labour Markets 
+## Labour Markets
 <ul class="paper-list">
+    <li class="paper-item">
+        <h3 class="paper-title">(Mis)Perceptions of the Labor Market</h3>
+        <p class="paper-authors">Pierre Deschamps, Morgane Hoffmann, Morgane Laouénan, Louis-Pierre Lepage, Charles Pébereau</p>
+        <p class="publication-date">Accepted at NBER Conference, 2026</p>
+        <p class="paper-abstract">Worker investments and job search are shaped by perceived market returns, which depend on the preferences of firms and competing workers. Similarly, firm compensation and amenity provision depend on beliefs about the preferences of workers and competing firms. We study whether employers and workers hold accurate perceptions about the preferences of others in the labor market through a series of incentivized field experiments on one of Europe's largest freelance platform. First, we elicit employer and worker preferences over a rich set of worker, employer, and job characteristics using randomized worker profile and job offer evaluations. Second, we elicit beliefs about these preferences, from the other side of the market as well as from competitors, and we test their accuracy. We document substantial perception gaps about labor market preferences on both sides of the market, including about the value of posted wages, human capital, market reputation, job amenities, and demographic characteristics. Third, we implement a personalized information treatment to correct these gaps and show that it changes participants' market behavior. To help interpret our results, we develop a theoretical framework showing how the perception gaps we document can distort both pricing and investment decisions, reducing matching and welfare. Our findings highlight an important source of information frictions in labor markets and their economic consequences.</p>
+        <!-- <p class="paper-keywords">Keywords: Keyword 1, Keyword 2</p> -->
+        <a class="download-link">Forthcoming</a>
+    </li>
     <li class="paper-item">
         <h3 class="paper-title">From Hidden Skills to Opportunities : The Impact of Job Portals use on Labor Market Outcomes</h3>
         <p class="paper-authors">Morgane Hoffmann, Bertille Picard, Charly Marie and Guillaume Bied</p>
@@ -41,9 +49,25 @@ title: "Research"
 
 <ul class="paper-list">
     <li class="paper-item">
+        <h3 class="paper-title">Evaluating LLM Behavior in Hiring: Implicit Weights, Fairness Across Groups, and Alignment with Human Preferences</h3>
+        <p class="paper-authors">Morgane Hoffmann, Emma Jouffroy, Warren Jouanneau, Marc Palyart, Charles Pebereau</p>
+        <p class="publication-date">Published: January 16, 2026</p>
+        <p class="paper-abstract">This study examines how general-purpose LLMs assign importance to different criteria in recruitment contexts. Using synthetic datasets based on real freelancer profiles and project descriptions from a European marketplace, we apply factorial experimental designs to measure how models weight various hiring-relevant factors. Key findings reveal that while LLMs prioritize productivity signals like skills and experience, they also interpret certain features beyond their explicit matching purposes. The study shows minimal average discrimination against minority groups while identifying intersectional patterns where productivity signals carry varying importance across demographic categories.</p>
+        <p class="paper-keywords">Keywords: Large Language Models, Person-job Fit, Fairness, Interpretability</p>
+        <a href="https://research.malt.com/papers/evaluating-llm-behavior-in-hiring-implicit-weights-fairness-across-groups-and-alignment-with-human-preferences" class="download-link">Malt Research Paper</a>
+    </li>
+    <li class="paper-item">
+        <h3 class="paper-title">What Do AI Recruiters Value? Auditing the Implicit Hiring Criteria of Large Language Models</h3>
+        <p class="paper-authors">Morgane Hoffmann</p>
+        <!-- <p class="publication-date">Work in Progress</p> -->
+        <p class="paper-abstract">Large Language Models are increasingly integrated into recruitment systems, yet their implicit hiring criteria remain largely unexplored. This study uses conjoint experimental designs to systematically audit what candidate attributes LLMs value when evaluating hiring decisions. Building a synthetic benchmark based on real-world freelance recruitment scenarios, we estimate the weights multiple models (Google, Anthropic, Mistral, DeepSeek) assign to skills, experience, education, rates, reputation, communication style, and demographic characteristics. Preliminary results reveal substantial heterogeneity across models: while all prioritize productivity signals, the relative importance of credentials, pricing, and demographic attributes differs markedly. The paper argues that selecting an AI hiring system is not merely a technical decision but a normative one, as different models encode distinct assumptions about candidate quality that may reshape access to employment and labor market outcomes.</p>
+        <!-- <p class="paper-keywords">Keywords: Keyword 1, Keyword 2</p> -->
+        <a class="download-link">Work In Progress</a>
+    </li>
+    <li class="paper-item">
         <h3 class="paper-title">Toward Job Recommendation for All</h3>
         <p class="paper-authors">Guilaume Bied, Christophe Gaillac, Morgane Hoffmann, Elia Perennes, Philippe Caillou, Bruno Crepon, Solal Nathan and Michèle Sebag</p>
-        <p class="publication-date">IJCAI (AI And Social Good Track), 2023. Also presented at ECML PKDD, AI4HR Workshop, 2023</p> 
+        <p class="publication-date">IJCAI (AI And Social Good Track), 2023. Also presented at ECML PKDD, AI4HR Workshop, 2023</p>
         <p class="paper-abstract">This paper presents a job recommendation algorithm designed and validated in the context of the French Public Employment Service. The challenges, owing to the confidential data policy, are related with the extreme sparsity of the interaction matrix and the mandatory scalability of the algorithm, aimed to deliver recommendations to millions of job seekers in quasi real- time, considering hundreds of thousands of job ads. The experimental validation of the approach shows similar or better performances than the state of the art in terms of recall, with a gain in inference time of 2 orders of magnitude. </p>
         <!-- <p class="paper-keywords">Keywords: Keyword 1, Keyword 2</p> -->
         <a href="https://www.ijcai.org/proceedings/2023/655" class="download-link">Proceedings</a>
