@@ -16,7 +16,7 @@ title: "Research"
     </li>
 </ul>
 
-## Labour Markets
+## Labor Markets
 <ul class="paper-list">
     <li class="paper-item">
         <h3 class="paper-title">(Mis)Perceptions of the Labor Market</h3>
