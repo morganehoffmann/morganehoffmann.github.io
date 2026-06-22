@@ -34,17 +34,9 @@ title: "Research"
         <!-- <p class="paper-keywords">Keywords: Keyword 1, Keyword 2</p> -->
         <a class="download-link">Work In Progress</a>
     </li>
-    <li class="paper-item">
-        <h3 class="paper-title">Signaling in Recruitment: Impact on Applications and Recruiters Work Conditions</h3>
-        <p class="paper-authors">Alexandre Aubourg, Morgane Hoffmann, Mathieu Teachout</p>
-        <!-- <p class="publication-date">Published: June 1, 2023</p> -->
-        <p class="paper-abstract">n a shifting labor market paradigm, jobseekers traditionally held the role of signaling, but recruiters are increasingly competing for talent. This paper analyzes an innovative initiative where firms are randomly asked to provide an "inversed CV" containing detailed information on work conditions, values, and direct contact details. Our analysis focuses on assessing the intervention’s impact on both the quantity and quality of job hirings, as well as its influence on work conditions proposed by firms.</p>
-        <!-- <p class="paper-keywords">Keywords: Keyword 1, Keyword 2</p> -->
-        <a class="download-link">Work In Progress</a>
-    </li>
 </ul>
 
-## Recommender systems & AI Ethics
+## AI Ethics & Recommender Systems
 
 
 <ul class="paper-list">
@@ -72,24 +64,11 @@ title: "Research"
         <!-- <p class="paper-keywords">Keywords: Keyword 1, Keyword 2</p> -->
         <a href="https://www.ijcai.org/proceedings/2023/655" class="download-link">Proceedings</a>
     </li>
-</ul>
-
-
-<ul class="paper-list">
     <li class="paper-item">
-        <h3 class="paper-title">Fairness in job recommendations: estimating, explaining, and reducing gender gaps</h3>
+        <h3 class="paper-title">Fairness in Job Recommendations: Estimating, Explaining, and Reducing Gender Gaps</h3>
         <p class="paper-authors">Guilaume Bied, Christophe Gaillac, Morgane Hoffmann, Elia Perennes, Philippe Caillou, Bruno Crepon, Solal Nathan and Michèle Sebag</p>
-        <!-- <p class="publication-date">Published: June 1, 2023</p> -->
-        <p class="paper-abstract">Algorithmic recommendations of job ads have the potential to reduce frictional unemployment, but raise
-concerns about fairness due to biases in past data. Our research investigates the issue of algorithmic
-fairness with a specific focus on gender in a hybrid job recommendation system developed in partnership
-with the French Public Employment Service (PES), which is trained on past hires. First, by viewing job
-ads as a set of characteristics (such as wage and contract type), we document how the algorithm treats job
-seekers differently based on gender, both unconditionally and conditionally on their search parameters
-and qualifications. Second, we discuss the notion(s) of algorithmic fairness applicable in this context and
-the trade-offs involved. We show that the considered system reflects some existing differences in hiring
-or applications but does not exacerbate them. Finally, we consider adversarial de-biasing technique as a
-practical tool to demonstrate the trade-offs between recall and reduced differentiated treatment. </p>
+        <p class="publication-date">AEQUITAS Workshop @ ECAI 2023</p>
+        <p class="paper-abstract">Algorithmic recommendations of job ads have the potential to reduce frictional unemployment, but raise concerns about fairness due to biases in past data. Our research investigates the issue of algorithmic fairness with a specific focus on gender in a hybrid job recommendation system developed in partnership with the French Public Employment Service (PES), which is trained on past hires. First, by viewing job ads as a set of characteristics (such as wage and contract type), we document how the algorithm treats job seekers differently based on gender, both unconditionally and conditionally on their search parameters and qualifications. Second, we discuss the notion(s) of algorithmic fairness applicable in this context and the trade-offs involved. We show that the considered system reflects some existing differences in hiring or applications but does not exacerbate them. Finally, we consider adversarial de-biasing technique as a practical tool to demonstrate the trade-offs between recall and reduced differentiated treatment. </p>
         <!-- <p class="paper-keywords">Keywords: Keyword 1, Keyword 2</p> -->
         <a href="https://ceur-ws.org/Vol-3523/" class="download-link">Proceedings</a>
     </li>

@@ -17,7 +17,7 @@
 
 <div class = company-wrapper>
 <div class = company-name><img src = "logoPE.png" width = 30px >  France Travail </div>
-<div class="time">Jan 2021 - Present</div>
+<div class="time">Jan 2021 - Sep 2024</div>
 </div>
 <div class = job-wrapper>
 <div class="experience-title"> Project Manager and Doctoral Researcher  </div>
