@@ -6,7 +6,7 @@ title: "Curriculum"
 
 <div class = experience>
 <div class = company-wrapper>
-<div class = company-name><img src = "logoMalt.svg" width = 30px > Malt </div>
+<div class = company-name><img src = "MaltLogo.png" width = 30px > Malt </div>
 <div class="time">Sep 2024 - Present</div>
 </div>
 <div class = job-wrapper>
@@ -16,7 +16,7 @@ title: "Curriculum"
 </div>
 
 <div class = company-wrapper>
-<div class = company-name><img src = "logoPE.png" width = 30px >  France Travail </div>
+<div class = company-name><img src = "France-travail-2023.svg.png" width = 30px >  France Travail </div>
 <div class="time">Jan 2021 - Sep 2024</div>
 </div>
 <div class = job-wrapper>
